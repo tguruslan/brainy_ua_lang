@@ -1,2 +1,4 @@
 # brainy_ua_lang
-Кураїнська мова для BrainyCP
+Українська мова для BrainyCP
+
+просто скопіюйте папку ua в папку /usr/local/brainycp/langs/ на сервері
