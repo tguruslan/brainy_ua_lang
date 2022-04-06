@@ -1,0 +1,30 @@
+<?php
+$lang = array(
+	'php_ini'		=> 'Конфігурація user.ini',
+	'php_ini_select_sites'		=> 'Вибір сайту',
+	'php_ini_add_user_ini'		=> 'Додати user.ini',
+	'php_ini_edit_user_ini'		=> 'Редагувати user.ini',
+	'php_ini_add_user_htaccess'		=> 'Додати user_htaccess',
+	'php_ini_edit_user_htaccess'		=> 'Редагувати user_htaccess',
+	'php_ini_bridget_php'		=> 'Міст php',
+	'php_ini_php_version'		=> 'Версія php',
+	'php_ini_save'		=> 'Зберегти',
+	'php_ini_cuccesfylly'		=> 'Налаштування застосовані',
+	'php_ini_select_user'		=> 'Вибір користувача',
+	'php_ini_not_int'		=> 'Значення має бути числом без пробілів та закінчуватися ',
+	'php_ini_not_switch'		=> 'Значення має бути On або Off',	
+	'php_ini_not_unfortunately'		=> 'На жаль версія php 5.2 не підтримує налаштування користувача з мостом ',
+	'php_ini_remove_ini'		=> 'Видалити файл ini',	
+	'php_ini_remove_ini_succ'		=> 'Файл із налаштуваннями видалено',
+	'php_ini_remove_ini_not'		=> 'Файла із налаштуваннями немає',
+	'php_ini_not_domain'		=> 'Користувач не має сайтів',
+	'php_ini_not_int_val'		=> 'Значення має бути числом',
+	'php_ini_not_char'		=> 'У рядку заборонені символи',
+	'php_ini_not_str_char'		=> 'Спроба ввести заборонені символи',	
+	'php_ini_placeholder'=> 'За замовчуванням',	
+	'php_ini_dont_literal'=> 'Вкажіть у параметрі memory_limit значення M (мегабайт)',	
+	'php_ini_exceed_limit'=> 'Перевищення ліміту.<br>Користувачеві встановлено ліміт - ',	
+	'php_ini_globalphp_inishort'=> 'Конфігурація php.ini',	
+
+	
+);
